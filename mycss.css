@@ -1,0 +1,45 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    background-color: #FFF;
+}
+
+.header-box {
+    padding: 10px 20px 10px 20px;
+    margin: 0px 0px 40px 0px;
+    background-color: #5a7;
+    border-bottom: 5px solid #476;
+}
+
+.header-title {
+    color: #333;
+}
+
+div.form span.table-title {
+    color: #333;
+    font-size: 18pt;
+}
+
+div.form {
+    margin: 20px;
+    padding: 0px;
+}
+
+.form-table-outer {
+    margin: 0px;
+    padding: 15px;
+    width: 500px;
+    border: 4px outset #999;
+}
+
+.form-table-inner {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    border: 0px;
+    border-collapse: collapse;
+}
+
+.form-table-inner td {
+    border: 1px solid #bbb;
+}
