@@ -1,3 +1,4 @@
+console.log("GIT");
 var unselectedColor = "rgb(221, 221, 221)";
 var selectedColor = "rgb(240, 240, 240)";
 var selectionListItems = document.getElementsByClassName("form-multiselect-item");
