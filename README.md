@@ -1,2 +1,2 @@
-#My First Git
+#MyFirstGit
 This is my first time using Git!
